@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family:fantasy;
+    background: palevioletred;
+    color:aqua;
+    border-width: 5px;
+    border-style:double;
+    border-radius: 15pc;
+
+}
